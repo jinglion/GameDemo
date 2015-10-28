@@ -1,0 +1,4 @@
+<resources>
+    <string name="hello">Hello World, Square</string>
+    <string name="app_name">方块游戏</string>
+</resources>
